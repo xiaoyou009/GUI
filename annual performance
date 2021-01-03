@@ -1,0 +1,33 @@
+Goals Setting and Its Measurement
+
+1	Business Performance (15%)
+  1. Design 2 systematic trading strategies in 2019 H2
+      Developed 4 profitable trading strategies (Ripple Effect, Gap Risk, Dividend Collection, and CBBC Magnetic Effect) 
+  2. Conduct backtesting and paper trading on designed strategies by the end of 2019Q4
+      Completed paper trading for Ripple Effect, Gap Risk, Dividend Collection, PnLs of which are USD400K,USD1M, and USD560K, respectively
+      CBBC Magnetic Effect has been on live since November 2019; PnL so far is 0.5% (USD33K).
+2	Individual Initiatives	
+  1. Develop a quantitative trading platform for derivatives business by the end of 2019 Q3
+      Built a quantitative trading system which consists of four components: automatic data inputting, backtesting, execution, and risk management. One major contribution of this system
+      is that it covers the whole lifecyle of tradig strategy developement and as a result, provides an effecient framework for developing new strategies. 
+  2. Initiate AI or Machine Learning project in 2019Q4 to improve profitablities of trading strategies and reduce execution slippages.
+      Have introduced machine learing technique (reinforcement learning) to trading strategies; improve profitibility by 20%
+  3. Deal with state-of-the-art projects within FICC department
+      Conducted research on Basel III and drafted a RWA framework for the global market business of FICC
+4	Routine Objectives (BAU)	
+  1. Build automatic tools to support daily trading activities by the end of 2019Q2
+      Built an Excel tool to monitor stock inventory & borrowing. It is an effective tool to avoid violating the up-tick rule of HKEX
+      Built an Excel tool to monitor greek risks of derivatives portfolio and conduct stress testing to ensure the portfolio
+      stay within predefined limits
+  2. Collaborate with middle office to build a risk management system for derivatives business by the end of 2019Q3
+      Built a Python tool to automate daily booking and cross-check portfolio positions with those from the third-party brokers (i.e. Nomura).
+      It is an effective tool to reduce operation risks.
+      
+5	Others	
+  1. Help various teams improve existing trading strategies through quanatitative research
+      Backtested FX, Index Futures, and Treasury strategies for CB and FX desks; filtered out false signals and improved winning rate.
+      Built an options pricing model for OTC FX options with Excel VBA
+      Developed a quantitative model in MT4 and reduced false trading signals by 20%
+  2. Maintain and extend good relationship with third-party brokers
+      Developed an automatic execution system by collorating with Bloomberg and Nomura
+      Built a good relationship with Mizuho. We will use Mizuho as our external broker once they provide better services than Nomura.
